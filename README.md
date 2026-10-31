@@ -76,4 +76,4 @@ Two CSV files from the Airbnb dataset used in this project:
 - Retention opportunity:** since most guests review only once, there is room to improve repeat-booking and loyalty programmes.
 
 ✨ Screenshot: 
-Link: 
+Link: https://github.com/Poorvanshi29/airbnb-dashboard/blob/main/snapshot%20of%20dashboard.png
